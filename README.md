@@ -91,3 +91,12 @@ Coming soon — I’ll share:
 ---
 
 ⭐ *"Data is not just numbers — it’s a story waiting to be told."*  
+
+## 🏆 Badges
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00)
+![Data Science](https://img.shields.io/badge/Data%20Science-006699)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=PowerBI&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
