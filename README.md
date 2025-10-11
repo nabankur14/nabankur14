@@ -25,10 +25,11 @@
 
 ## 🧩 Featured Data Science Projects
 
-| # | Project | Domain | Description |
-|:-:|----------|---------|--------------|
-| 1️⃣ | [**Default Prediction & Stock Risk Analysis_Using_Python**](/finance-retail-analytics-using-python) | Finance | Predicts company default risk & stock volatility. |
-| 2️⃣ | [**Café Sales – Market Basket Analysis_Using_Python_and_KNIME**](./Cafe-Sales-Analytics-Market-Basket-Analysis ) | Retail Analytics | Uncovered customer purchase patterns and profitable combos using Python (EDA) & KNIME (MBA). |
+
+| No. | Project | Domain | Description |
+|:---:|:---------------------------------------------|:------------------:|:---------------------------------------------------------------|
+| 1️⃣ | [**Default Prediction & Stock Risk Analysis (Using Python)**](https://github.com/nabankur14/finance-retail-analytics-using-python) | Finance | Predicts company default risk and analyzes market volatility using ML and financial metrics. |
+| 2️⃣ | [**Café Sales – Market Basket Analysis (Using Python & KNIME)**](https://github.com/nabankur14/Cafe-Sales-Analytics-Market-Basket-Analysis) | Retail Analytics | Uncovered customer purchase patterns and profitable combos using Python (EDA) and KNIME (MBA). |
 | 3️⃣ | [**New Wheels Case Study (SQL)**](./New_Wheels_SQL_Case_Study) | Retail | SQL-driven business insights & KPIs for vehicle sales. |
 | 4️⃣ | [**AllLife Bank Customer Segmentation**](./AllLife_Bank_Segmentation) | Unsupervised Learning | Clustered customers using K-Means & Hierarchical models. |
 | 5️⃣ | [**EasyVisa – ML Classification Model**](./EasyVisa_ML_Model) | Predictive Modeling | Predicts visa approvals using ensemble ML models. |
