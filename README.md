@@ -36,6 +36,8 @@
 | 7️⃣ | [**ShowTime OTT Analysis**](./ShowTime_OTT_Regression) | Regression | Linear regression to predict first-day OTT viewership. |
 | 8️⃣ | [**Inferential Statistics Case Study**](./Inferential_Statistics_Project) | Statistics | Applied ANOVA, Chi-Square & Hypothesis Testing. |
 | 9️⃣ | [**Austo EDA**](./Austo_Exploratory_Analysis) | Data Cleaning | Analyzed car sales & customer patterns. |
+| 1️⃣0️⃣ | [**Café Sales – Market Basket Analysis_Using_Python_and_KNIME**](./Cafe_Sales_Market_Basket_Analysis_Using_KNIME_and_Python) | Retail Analytics | Uncovered customer purchase patterns and profitable combos using Python (EDA) & KNIME (MBA). |
+
 
 ---
 
