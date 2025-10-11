@@ -27,7 +27,7 @@
 
 | # | Project | Domain | Description |
 |:-:|----------|---------|--------------|
-| 1️⃣ | [**Default Prediction & Stock Risk Analysis**](./Default_Prediction_and_Stock_Risk_Analysis) | Finance | Predicts company default risk & stock volatility. |
+| 1️⃣ | [**Default Prediction & Stock Risk Analysis**](./finance-retail-analytics-using-python) | Finance | Predicts company default risk & stock volatility. |
 | 2️⃣ | [**Wine Sales Forecasting**](./Wine_Sales_Forecasting) | Time Series | Forecasts next 12 months’ wine sales using ARIMA/SARIMA. |
 | 3️⃣ | [**New Wheels Case Study (SQL)**](./New_Wheels_SQL_Case_Study) | Retail | SQL-driven business insights & KPIs for vehicle sales. |
 | 4️⃣ | [**AllLife Bank Customer Segmentation**](./AllLife_Bank_Segmentation) | Unsupervised Learning | Clustered customers using K-Means & Hierarchical models. |
@@ -36,7 +36,7 @@
 | 7️⃣ | [**ShowTime OTT Analysis**](./ShowTime_OTT_Regression) | Regression | Linear regression to predict first-day OTT viewership. |
 | 8️⃣ | [**Inferential Statistics Case Study**](./Inferential_Statistics_Project) | Statistics | Applied ANOVA, Chi-Square & Hypothesis Testing. |
 | 9️⃣ | [**Austo EDA**](./Austo_Exploratory_Analysis) | Data Cleaning | Analyzed car sales & customer patterns. |
-| 1️⃣0️⃣ | [**Café Sales – Market Basket Analysis_Using_Python_and_KNIME**](./Cafe_Sales_Market_Basket_Analysis_Using_KNIME_and_Python) | Retail Analytics | Uncovered customer purchase patterns and profitable combos using Python (EDA) & KNIME (MBA). |
+| 1️⃣0️⃣ | [**Café Sales – Market Basket Analysis_Using_Python_and_KNIME**](./Cafe-Sales-Analytics-Market-Basket-Analysis ) | Retail Analytics | Uncovered customer purchase patterns and profitable combos using Python (EDA) & KNIME (MBA). |
 
 
 ---
