@@ -53,6 +53,16 @@
 *(Will be deployed using Streamlit Cloud & linked here.)*
 
 ---
+## 📈 Tableau / Power BI Projects
+
+| Project                                                                                                                                                                         | Description                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [**Car Insurance Claims Analysis**](https://public.tableau.com/app/profile/nabankur.ray1543/viz/CarInsuranceClaimsAnalysis_17385197978260/CarInsuranceClaimsAnalysisbyNabankur) | Tableau dashboard analyzing car insurance claim patterns, customer demographics, and regional risk trends. |
+| **Retail Sales Performance (Power BI)**                                                                                                                                         | Power BI dashboard visualizing regional sales performance, profit margins, and category insights.          |
+
+*(More visualization projects will be added soon — stay tuned!)*
+
+---
 
 ## 🎓 Mentoring & Learning Resources
 
