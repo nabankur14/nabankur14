@@ -29,20 +29,21 @@
 | No. | Project | Domain | Description |
 |:---:|:---------------------------------------------|:------------------:|:---------------------------------------------------------------|
 | 1️⃣ | [**Default Prediction & Stock Risk Analysis (Using Python)**](https://github.com/nabankur14/finance-retail-analytics-using-python) | Finance | Predicts company default risk and analyzes market volatility using ML and financial metrics. |
-| 2️⃣ | [**Café Sales – Market Basket Analysis (Using Python & KNIME)**](https://github.com/nabankur14/Cafe-Sales-Analytics-Market-Basket-Analysis) | Retail Analytics | Uncovered customer purchase patterns and profitable combos using Python (EDA) and KNIME (MBA). |
-| 3️⃣ | [**New Wheels Case Study (SQL)**](./New_Wheels_SQL_Case_Study) | Retail | SQL-driven business insights & KPIs for vehicle sales. |
-| 4️⃣ | [**AllLife Bank Customer Segmentation**](./AllLife_Bank_Segmentation) | Unsupervised Learning | Clustered customers using K-Means & Hierarchical models. |
-| 5️⃣ | [**EasyVisa – ML Classification Model**](./EasyVisa_ML_Model) | Predictive Modeling | Predicts visa approvals using ensemble ML models. |
-| 6️⃣ | [**Segmentation via PCA & Clustering**](./Segmentation_PCA) | Machine Learning | Reduced dimensionality & identified customer groups. |
-| 7️⃣ | [**ShowTime OTT Analysis**](./ShowTime_OTT_Regression) | Regression | Linear regression to predict first-day OTT viewership. |
-| 8️⃣ | [**Inferential Statistics Case Study**](./Inferential_Statistics_Project) | Statistics | Applied ANOVA, Chi-Square & Hypothesis Testing. |
-| 9️⃣ | [**Austo EDA**](./Austo_Exploratory_Analysis) | Data Cleaning | Analyzed car sales & customer patterns. |
+| 2️⃣ | [**Cafe Sales – Market Basket Analysis (Using Python & KNIME)**](https://github.com/nabankur14/Cafe-Sales-Analytics-Market-Basket-Analysis) | Retail Analytics | Uncovered customer purchase patterns and profitable combos using Python (EDA) and KNIME (MBA). |
+| 3️⃣ | [**Visa Approval Classification Using Machine Learning**](https://github.com/nabankur14/visa-approval-classification-using-machine-learning) | Predictive Modeling | Predicts visa approvals using ensemble ML models. |
+| 4️⃣ | [**Inferential Analysis Marketing Insights**](https://github.com/nabankur14/Inferential_Analysis_Marketing_Insights) | Statistics | Applied ANOVA, Chi-Square & Hypothesis Testing. |
+| 5️⃣ | [**Automobile Customer Analytics**](https://github.com/nabankur14/automobile-sales-data-insights) | Data Cleaning | Analyzed car sales & customer patterns. |
+| 6️⃣ | [**Hotel Booking Cancellation Prediction**](https://github.com/nabankur14/hotel-booking-cancellation-prediction-model) | Retail Analytics | Predict booking cancellation using Logistic Regression, KNN, Decision Tree |
+
+| 7️⃣ | [**AllLife Bank Customer Segmentation**](./AllLife_Bank_Segmentation) | Unsupervised Learning | Clustered customers using K-Means & Hierarchical models. |
+| 8️⃣ | [**Segmentation via PCA & Clustering**](./Segmentation_PCA) | Machine Learning | Reduced dimensionality & identified customer groups. |
+| 9️⃣ | [**ShowTime OTT Analysis**](./ShowTime_OTT_Regression) | Regression | Linear regression to predict first-day OTT viewership. |
 | 1️⃣0️⃣ | [**Wine Sales Forecasting**](./Wine_Sales_Forecasting) | Time Series | Forecasts next 12 months’ wine sales using ARIMA/SARIMA. |
 
 
 ---
 
-## Streamlit / Dashboard Projects (🚧 Future Deployment)
+## Streamlit / Dashboard Projects (Future Deployment)
 
 | Project | Description |
 |----------|--------------|
@@ -79,7 +80,7 @@ Coming soon — I’ll share:
 
 ## Tech Stack
 
-**Languages:** Python, SQL, R  
+**Languages:** Python, SQL, 
 **Libraries:** Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn, XGBoost  
 **Tools:** Excel, Power BI, Streamlit, Tableau  
 **Techniques:** EDA, Predictive Modeling, Time Series Forecasting, Segmentation, Hypothesis Testing  
@@ -97,9 +98,9 @@ Coming soon — I’ll share:
 
 ## Connect With Me
 
-📧 **Email:** [ray.nabankur@gmail.com](mailto:ray.nabankur@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/nabankur-ray-876582181](https://www.linkedin.com/in/nabankur-ray-876582181/)  
-💻 **GitHub:** [github.com/nabankur14](https://github.com/nabankur14)
+**Email:** [ray.nabankur@gmail.com](mailto:ray.nabankur@gmail.com)  
+**LinkedIn:** [linkedin.com/in/nabankur-ray-876582181](https://www.linkedin.com/in/nabankur-ray-876582181/)  
+**GitHub:** [github.com/nabankur14](https://github.com/nabankur14)
 
 ---
 
