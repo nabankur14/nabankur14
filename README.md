@@ -33,7 +33,7 @@
 | 3️⃣ | [**Visa Approval Classification Using Machine Learning**](https://github.com/nabankur14/visa-approval-classification-using-machine-learning) | Predictive Modeling | Predicts visa approvals using ensemble ML models. |
 | 4️⃣ | [**Inferential Analysis Marketing Insights**](https://github.com/nabankur14/Inferential_Analysis_Marketing_Insights) | Statistics | Applied ANOVA, Chi-Square & Hypothesis Testing. |
 | 5️⃣ | [**Automobile Customer Analytics**](https://github.com/nabankur14/automobile-sales-data-insights) | Data Cleaning | Analyzed car sales & customer patterns. |
-| 6️⃣ | [**Hotel Booking Cancellation Prediction**](https://github.com/nabankur14/hotel-booking-cancellation-prediction-model) | Retail Analytics | Predict booking cancellation using Logistic Regression, KNN, Decision Tree |
+| 6️⃣ | [**Hotel Booking Cancellation Prediction**](https://github.com/nabankur14/hotel-booking-cancellation-prediction-model) | Retail Analytics | Predict booking cancellation using Logistic Regression, KNN, Decision Tree. |
 
 | 7️⃣ | [**AllLife Bank Customer Segmentation**](./AllLife_Bank_Segmentation) | Unsupervised Learning | Clustered customers using K-Means & Hierarchical models. |
 | 8️⃣ | [**Segmentation via PCA & Clustering**](./Segmentation_PCA) | Machine Learning | Reduced dimensionality & identified customer groups. |
