@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Nabankur Ray</h1>
+<h1 align="center">Hi, I'm Nabankur Ray</h1>
 <h3 align="center">Data Scientist | Business Analytics | Machine Learning Enthusiast</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 🎯 Passionate **Data Scientist** with strong foundations in **Machine Learning, Business Analytics, and Statistical Modeling**.  
 💼 Experienced in analyzing real-world business data across **Finance, Marketing, Retail, and Risk Analytics**.  
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧩 Featured Data Science Projects
+## Featured Data Science Projects
 
 
 | No. | Project | Domain | Description |
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 Streamlit / Dashboard Projects (🚧 Future Deployment)
+## Streamlit / Dashboard Projects (🚧 Future Deployment)
 
 | Project | Description |
 |----------|--------------|
@@ -53,7 +53,7 @@
 *(Will be deployed using Streamlit Cloud & linked here.)*
 
 ---
-## 📈 Tableau / Power BI Projects
+## Tableau / Power BI Projects
 
 | Project                                                                                                                                                                         | Description                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -64,20 +64,20 @@
 
 ---
 
-## 🎓 Mentoring & Learning Resources
+## Mentoring & Learning Resources
 
-📚 **Mini Guides & Notes**  
+**Mini Guides & Notes**  
 Coming soon — I’ll share:
 - Quick guides on **EDA, Feature Engineering, Model Evaluation**
 - SQL tips & common interview queries
 - Time Series forecasting notebooks  
 - “How I Structure Data Science Projects” tutorial
 
-🧩 **Mentoring Focus:** Data Science | Analytics Career | Model Explainability | Business Storytelling
+**Mentoring Focus:** Data Science | Analytics Career | Model Explainability | Business Storytelling
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages:** Python, SQL, R  
 **Libraries:** Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn, XGBoost  
@@ -86,7 +86,7 @@ Coming soon — I’ll share:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabankur14&show_icons=true&theme=default&hide_border=true" height="160">
@@ -95,7 +95,7 @@ Coming soon — I’ll share:
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 📧 **Email:** [ray.nabankur@gmail.com](mailto:ray.nabankur@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/nabankur-ray-876582181](https://www.linkedin.com/in/nabankur-ray-876582181/)  
@@ -103,7 +103,7 @@ Coming soon — I’ll share:
 
 ---
 
-⭐ *"Data is not just numbers — it’s a story waiting to be told."*  
+*"Data is not just numbers — it’s a story waiting to be told."*  
 
 ## 🏆 Badges
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
