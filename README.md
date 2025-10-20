@@ -17,9 +17,9 @@
 
 ### About Me
 
-🎯 Passionate **Data Scientist** with strong foundations in **Machine Learning, Business Analytics, and Statistical Modeling**.  
-💼 Experienced in analyzing real-world business data across **Finance, Marketing, Retail, and Risk Analytics**.  
-🚀 I love turning complex data into **actionable insights, dashboards, and predictive models**.
+* Passionate **Data Scientist** with strong foundations in **Machine Learning, Business Analytics, and Statistical Modeling**.  
+* Experienced in analyzing real-world business data across **Finance, Marketing, Retail, and Risk Analytics**.  
+* I love turning complex data into **actionable insights, dashboards, and predictive models**.
 
 ---
 
