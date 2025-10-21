@@ -34,11 +34,12 @@
 | 4️⃣ | [**Inferential Analysis Marketing Insights**](https://github.com/nabankur14/Inferential_Analysis_Marketing_Insights) | Statistics | Applied ANOVA, Chi-Square & Hypothesis Testing. |
 | 5️⃣ | [**Automobile Customer Analytics**](https://github.com/nabankur14/automobile-sales-data-insights) | Data Cleaning | Analyzed car sales & customer patterns. |
 | 6️⃣ | [**Hotel Booking Cancellation Prediction**](https://github.com/nabankur14/hotel-booking-cancellation-prediction-model) | Retail Analytics | Predict booking cancellation using Logistic Regression, KNN, Decision Tree. |
+| 7️⃣ | [**Wine Sales Forecasting using ARIMA**](https://github.com/nabankur14/time-series-wine-sales-forecasting) | Time Series | Forecasts next 12 months’ wine sales using ARIMA/SARIMA. |
 
-| 7️⃣ | [**AllLife Bank Customer Segmentation**](./AllLife_Bank_Segmentation) | Unsupervised Learning | Clustered customers using K-Means & Hierarchical models. |
+|  | [**AllLife Bank Customer Segmentation**](./AllLife_Bank_Segmentation) | Unsupervised Learning | Clustered customers using K-Means & Hierarchical models. |
 | 8️⃣ | [**Segmentation via PCA & Clustering**](./Segmentation_PCA) | Machine Learning | Reduced dimensionality & identified customer groups. |
 | 9️⃣ | [**ShowTime OTT Analysis**](./ShowTime_OTT_Regression) | Regression | Linear regression to predict first-day OTT viewership. |
-| 1️⃣0️⃣ | [**Wine Sales Forecasting**](./Wine_Sales_Forecasting) | Time Series | Forecasts next 12 months’ wine sales using ARIMA/SARIMA. |
+
 
 
 ---
